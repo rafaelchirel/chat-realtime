@@ -53,6 +53,17 @@ npm install
 	http://127.0.0.1:8000 o http://localhost:8000
 ```
 
+**Consideraciones**
+```shell
+	1)Abrir dos (2) pestañas en el navegador, una modo normal y otra modo incognito
+
+	2)Luego acceder a la direccion siguiente para el registro, realizar proceso en cada pestaña
+		http://127.0.0.1:8000/register
+
+	3)URL Chat
+	http://127.0.0.1:8000/chats o http://localhost:8000/chats
+```
+
 ## Colaborar
 
 Cualquier aportación vía Pull-Request  :)
