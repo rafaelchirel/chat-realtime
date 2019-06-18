@@ -42,10 +42,10 @@ cp .env.example .env
 
 **Dependencias**
 ```shell
-php artisan migrate
-php artisan key:generate
 composer install
 npm install
+php artisan key:generate
+php artisan migrate
 ```
 
 **iniciar**
