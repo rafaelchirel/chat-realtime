@@ -50,6 +50,15 @@ npm install
 
 **iniciar**
 ```shell
+	Abrir dos terminales
+
+	En una de ella insertar este comando
+	php artisan websockets:serve
+
+	En la siguiente terminal, esté siguiente
+	php artisan serve
+
+	Desde el navegador web:
 	http://127.0.0.1:8000 o http://localhost:8000
 ```
 
